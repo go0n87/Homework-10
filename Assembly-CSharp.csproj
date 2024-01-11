@@ -59,8 +59,10 @@
     <Compile Include="Assets\Activation.cs" />
     <Compile Include="Assets\PushingControl.cs" />
     <Compile Include="Assets\Scenes\ChangeScene.cs" />
-    <Compile Include="Assets\Scenes\Pushing.cs" />
     <Compile Include="Assets\FlipperControl.cs" />
+    <Compile Include="Assets\Scenes\Pushing.cs" />
+    <Compile Include="Assets\MillTimer.cs" />
+    <Compile Include="Assets\GameScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

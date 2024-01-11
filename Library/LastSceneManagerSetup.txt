@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/PinBall.unity
+- path: Assets/Scenes/BrickWall.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

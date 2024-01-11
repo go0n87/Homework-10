@@ -23,6 +23,7 @@ public class ChangeScene : MonoBehaviour
 
     public void PinBall()
     {
+
         _indexCurrentScene = _getCurrentBuildIndex();
         SceneManager.LoadScene(1);
         SceneManager.UnloadSceneAsync(_indexCurrentScene);
